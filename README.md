@@ -1,2 +1,3 @@
-# Repo Robotica
-Echipa: Pașcu Andrei, Pascu Marian
+## Echipa BAROSANII NR 1
+* **Pascu Andrei**
+* **Pascu Marian**
