@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/MyPackage/share/gennodejs/ros/MyPackage/srv/_index.js
