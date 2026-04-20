@@ -1,20 +1,20 @@
-Symlinking /home/vm/catkin_ws/devel/include/MyPackage/CustomServMessResponse.h
-Symlinking /home/vm/catkin_ws/devel/include/MyPackage/CustomServMess.h
-Symlinking /home/vm/catkin_ws/devel/include/MyPackage/CustomServMessRequest.h
-Symlinking /home/vm/catkin_ws/devel/lib/python3/dist-packages/MyPackage/__init__.py
-Symlinking /home/vm/catkin_ws/devel/lib/python3/dist-packages/MyPackage/srv/_CustomServMess.py
-Symlinking /home/vm/catkin_ws/devel/lib/python3/dist-packages/MyPackage/srv/__init__.py
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/include/MyPackage/CustomServMessResponse.h, /home/vm/catkin_ws/devel/include/MyPackage/CustomServMessResponse.h)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/include/MyPackage/CustomServMess.h, /home/vm/catkin_ws/devel/include/MyPackage/CustomServMess.h)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/include/MyPackage/CustomServMessRequest.h, /home/vm/catkin_ws/devel/include/MyPackage/CustomServMessRequest.h)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/lib/python3/dist-packages/MyPackage/__init__.py, /home/vm/catkin_ws/devel/lib/python3/dist-packages/MyPackage/__init__.py)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/lib/python3/dist-packages/MyPackage/srv/_CustomServMess.py, /home/vm/catkin_ws/devel/lib/python3/dist-packages/MyPackage/srv/_CustomServMess.py)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/lib/python3/dist-packages/MyPackage/srv/__init__.py, /home/vm/catkin_ws/devel/lib/python3/dist-packages/MyPackage/srv/__init__.py)
 Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/lib/pkgconfig/MyPackage.pc, /home/vm/catkin_ws/devel/lib/pkgconfig/MyPackage.pc)
-Symlinking /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/MyPackage-srv.asd
-Symlinking /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/CustomServMess.lisp
-Symlinking /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/_package.lisp
-Symlinking /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/_package_CustomServMess.lisp
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/common-lisp/ros/MyPackage/srv/MyPackage-srv.asd, /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/MyPackage-srv.asd)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/common-lisp/ros/MyPackage/srv/CustomServMess.lisp, /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/CustomServMess.lisp)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/common-lisp/ros/MyPackage/srv/_package.lisp, /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/_package.lisp)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/common-lisp/ros/MyPackage/srv/_package_CustomServMess.lisp, /home/vm/catkin_ws/devel/share/common-lisp/ros/MyPackage/srv/_package_CustomServMess.lisp)
 Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/MyPackage/cmake/MyPackageConfig.cmake, /home/vm/catkin_ws/devel/share/MyPackage/cmake/MyPackageConfig.cmake)
 Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/MyPackage/cmake/MyPackageConfig-version.cmake, /home/vm/catkin_ws/devel/share/MyPackage/cmake/MyPackageConfig-version.cmake)
-Symlinking /home/vm/catkin_ws/devel/share/MyPackage/cmake/MyPackage-msg-extras.cmake
-Symlinking /home/vm/catkin_ws/devel/share/MyPackage/cmake/MyPackage-msg-paths.cmake
-Symlinking /home/vm/catkin_ws/devel/share/roseus/ros/MyPackage/manifest.l
-Symlinking /home/vm/catkin_ws/devel/share/roseus/ros/MyPackage/srv/CustomServMess.l
-Symlinking /home/vm/catkin_ws/devel/share/gennodejs/ros/MyPackage/_index.js
-Symlinking /home/vm/catkin_ws/devel/share/gennodejs/ros/MyPackage/srv/CustomServMess.js
-Symlinking /home/vm/catkin_ws/devel/share/gennodejs/ros/MyPackage/srv/_index.js
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/MyPackage/cmake/MyPackage-msg-extras.cmake, /home/vm/catkin_ws/devel/share/MyPackage/cmake/MyPackage-msg-extras.cmake)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/MyPackage/cmake/MyPackage-msg-paths.cmake, /home/vm/catkin_ws/devel/share/MyPackage/cmake/MyPackage-msg-paths.cmake)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/roseus/ros/MyPackage/manifest.l, /home/vm/catkin_ws/devel/share/roseus/ros/MyPackage/manifest.l)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/roseus/ros/MyPackage/srv/CustomServMess.l, /home/vm/catkin_ws/devel/share/roseus/ros/MyPackage/srv/CustomServMess.l)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/gennodejs/ros/MyPackage/_index.js, /home/vm/catkin_ws/devel/share/gennodejs/ros/MyPackage/_index.js)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/gennodejs/ros/MyPackage/srv/CustomServMess.js, /home/vm/catkin_ws/devel/share/gennodejs/ros/MyPackage/srv/CustomServMess.js)
+Linked: (/home/vm/catkin_ws/devel/.private/MyPackage/share/gennodejs/ros/MyPackage/srv/_index.js, /home/vm/catkin_ws/devel/share/gennodejs/ros/MyPackage/srv/_index.js)

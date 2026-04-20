@@ -1,36 +1,12 @@
-[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target _MyPackage_generate_messages_check_deps_CustomServMess[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
 [  0%] Built target std_msgs_generate_messages_lisp
 [  0%] Built target std_msgs_generate_messages_py
 [  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target std_msgs_generate_messages_eus
 [  0%] Built target _MyPackage_generate_messages_check_deps_CustomServMess
-[35m[1mScanning dependencies of target MyPackage_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target MyPackage_generate_messages_eus[0m
-[35m[1mScanning dependencies of target MyPackage_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target MyPackage_generate_messages_py[0m
-[35m[1mScanning dependencies of target MyPackage_generate_messages_cpp[0m
-[ 14%] [34m[1mGenerating Javascript code from MyPackage/CustomServMess.srv[0m
-[ 28%] [34m[1mGenerating EusLisp code from MyPackage/CustomServMess.srv[0m
-[ 42%] [34m[1mGenerating Python code from SRV MyPackage/CustomServMess[0m
-[ 57%] [34m[1mGenerating EusLisp manifest code for MyPackage[0m
-[ 71%] [34m[1mGenerating Lisp code from MyPackage/CustomServMess.srv[0m
-[ 85%] [34m[1mGenerating C++ code from MyPackage/CustomServMess.srv[0m
-[ 85%] Built target MyPackage_generate_messages_nodejs
-WARNING: Package name "MyPackage" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "MyPackage" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[ 85%] Built target MyPackage_generate_messages_lisp
-[ 85%] Built target MyPackage_generate_messages_cpp
-[100%] [34m[1mGenerating Python srv __init__.py for MyPackage[0m
+[ 14%] Built target MyPackage_generate_messages_cpp
+[ 28%] Built target MyPackage_generate_messages_nodejs
+[ 71%] Built target MyPackage_generate_messages_lisp
+[ 57%] Built target MyPackage_generate_messages_eus
 [100%] Built target MyPackage_generate_messages_py
-WARNING: Package name "MyPackage" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "MyPackage" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-WARNING: Package name "MyPackage" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-[100%] Built target MyPackage_generate_messages_eus
-[35m[1mScanning dependencies of target MyPackage_generate_messages[0m
 [100%] Built target MyPackage_generate_messages

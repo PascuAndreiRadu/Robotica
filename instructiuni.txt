@@ -1,0 +1,3 @@
+in primul terminal: roslaunch turtlebot3_gazebo turtlebot3_world.launch
+in al doilea terminal: rosrun wall_avoider wall_avoider.py
+in al treilea terminal: roslaunch turtlebot3_gazebo turtlebot3_gazebo_rviz.launch
