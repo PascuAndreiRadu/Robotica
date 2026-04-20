@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/MyPackage/lib/python3/dist-packages/MyPackage/__init__.py

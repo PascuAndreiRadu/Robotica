@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/topics_pkg/lib/pkgconfig/topics_pkg.pc

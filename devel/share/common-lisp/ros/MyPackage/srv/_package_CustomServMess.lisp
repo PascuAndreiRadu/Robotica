@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/MyPackage/share/common-lisp/ros/MyPackage/srv/_package_CustomServMess.lisp

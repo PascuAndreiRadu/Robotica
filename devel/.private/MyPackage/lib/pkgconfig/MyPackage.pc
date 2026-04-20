@@ -3,6 +3,6 @@ prefix=/home/vm/catkin_ws/devel/.private/MyPackage
 Name: MyPackage
 Description: Description of MyPackage
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/vm/catkin_ws/devel/.private/MyPackage/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: rospy
