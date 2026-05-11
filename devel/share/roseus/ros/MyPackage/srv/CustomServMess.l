@@ -1,1 +1,0 @@
-/home/vm/catkin_ws/devel/.private/MyPackage/share/roseus/ros/MyPackage/srv/CustomServMess.l

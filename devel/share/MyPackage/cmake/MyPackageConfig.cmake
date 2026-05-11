@@ -1,1 +1,0 @@
-/home/vm/catkin_ws/devel/.private/MyPackage/share/MyPackage/cmake/MyPackageConfig.cmake

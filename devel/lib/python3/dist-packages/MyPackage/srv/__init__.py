@@ -1,1 +1,0 @@
-/home/vm/catkin_ws/devel/.private/MyPackage/lib/python3/dist-packages/MyPackage/srv/__init__.py
