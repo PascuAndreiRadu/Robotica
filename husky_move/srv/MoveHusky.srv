@@ -1,0 +1,4 @@
+float64 side
+float64 repetitions
+---
+bool success
