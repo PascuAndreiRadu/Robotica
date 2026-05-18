@@ -1,0 +1,6 @@
+string command
+float32 distance
+---
+---
+string status
+float32 distance_remaining
